@@ -228,6 +228,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">メインのお客さんは、こんな感じの主婦たち</span></h2>
 <a href="20251126_025.JPG" target="_blank"><img src="20251126_025.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">役場のお姉様は、ここでも制服のままの姿でお買い物</span></h2>
 <a href="20251126_026.JPG" target="_blank"><img src="20251126_026.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">みかん屋さんが大人気です</span></h2>
